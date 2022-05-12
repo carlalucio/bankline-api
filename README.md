@@ -3,7 +3,7 @@
 ### Abstraindo o Domínio Bancário em Uma API REST com Java
 
 Criado sob a mentoria do Gleyson Sampaio na Santander Dev Week.
-Evetno realizado pela Digital Innovation One.
+Evento realizado pela Digital Innovation One.
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
